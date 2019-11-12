@@ -1,4 +1,4 @@
-package com.madantiwari.navigationdrawer;
+package com.madantiwari.navigationdrawer.fragment;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -11,6 +11,8 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
+
+import com.madantiwari.navigationdrawer.R;
 
 public class AddFragment extends Fragment implements View.OnClickListener{
 
