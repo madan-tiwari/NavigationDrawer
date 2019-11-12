@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navAdd"
+            android:icon="@drawable/ic_add"
+            android:title="Sum of Two Numbers" />
+        <item
+            android:id="@+id/navArea"
+            android:icon="@drawable/ic_circle"
+            android:title="Area of Circle" />
+        <item
+            android:id="@+id/navContacts"
+            android:icon="@drawable/ic_contacts"
+            android:title="Contacts" />
+
+
+    </group>
+
+
+</menu>
